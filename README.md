@@ -4,6 +4,7 @@ Modeled a high-power synchronous machine using dq0 transformation to capture bot
 This repository contains three main components:
 
 **1. Project Report**
+
 Located in the report/ folder.
 This document explains the system design, modeling approach, control strategies, simulation workflow and key results. It provides the theory and methodology behind the model.
 
