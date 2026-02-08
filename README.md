@@ -5,7 +5,7 @@ This repository contains three main components:
 
 **1. Project Report**
 
-Located in the report/ folder.
+Located in the Synchronous Machine Simulation Report.
 This document explains the system design, modeling approach, control strategies, simulation workflow and key results. It provides the theory and methodology behind the model.
 
 **2. Parameter File**
